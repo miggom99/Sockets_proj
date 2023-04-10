@@ -1,0 +1,55 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{AP2}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=532e710154a97d475073d0725b3a00b0}{%
+           family={Aveiro},
+           familyi={A\bibinitperiod},
+           given={Universidade},
+           giveni={U\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{532e710154a97d475073d0725b3a00b0}
+      \strng{fullhash}{532e710154a97d475073d0725b3a00b0}
+      \strng{bibnamehash}{532e710154a97d475073d0725b3a00b0}
+      \strng{authorbibnamehash}{532e710154a97d475073d0725b3a00b0}
+      \strng{authornamehash}{532e710154a97d475073d0725b3a00b0}
+      \strng{authorfullhash}{532e710154a97d475073d0725b3a00b0}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Trabalho de aprofundamento 2}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://elearning.ua.pt/pluginfile.php/430960/mod_resource/content/13/ap2-2021.pdf
+      \endverb
+      \verb{url}
+      \verb https://elearning.ua.pt/pluginfile.php/430960/mod_resource/content/13/ap2-2021.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
